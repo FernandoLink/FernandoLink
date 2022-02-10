@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandoLink.
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning ODOO.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me fernandolink@gmail.com
 
 <!---
